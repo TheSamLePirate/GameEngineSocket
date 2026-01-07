@@ -2,6 +2,7 @@
   "name": "game-engine-socket",
   "version": "1.0.0",
   "type": "module",
+  "repository": "https://github.com/TheSamLePirate/GameEngineSocket",
   "main": "./dist/game-engine-socket.umd.js",
   "module": "./dist/game-engine-socket.es.js",
   "types": "./dist/index.d.ts",
